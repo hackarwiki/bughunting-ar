@@ -112,6 +112,7 @@ mv ~/Gf-Patterns/*.json ~/.gf
 <p dir='rtl' align='right'>
 هذة بعض الاوامر التي ممكن تستخدمها في الXSS زي ماقولنا
 </p>
+
 ```bash
 echo "target.com"| waybackurls |gf xss |dalfox pipe --blind youusername.xss.ht
 ```
@@ -120,11 +121,18 @@ echo "target.com"| waybackurls |gf xss |dalfox pipe --blind youusername.xss.ht
 هنا انصحك تستخدمها في سيشن تانية وافضل انك تستخدمها في tmux tool
 وهنا بردو لازم يكون معاك اكونت علي xsshunter
 سهل انك تعمل اكونت من هنا
+</p>
+<p dir='rtl' align='right'>
 <a href="https://xsshunter.com/app" >https://xsshunter.com/app </a>
 وبعد اما تعمل اكونت غير
-youusername.xss.ht للصب الخاص بيك انت
+youusername.xss.ht
+للصب الخاص بيك انت
 ثاني طريقة وهي هنستخدم فيها kxss
+</p>
+
 </h4 dir='rtl' align='right'> KXSS - تثبيت </h4>
+
+<p dir='rtl' align='right'>
 اول حاجة هنحملها من الجيت هاب هكذا
 وهندخل علي الفولدر الي اتحمل دا
 وهتلاقي جواه ادوات كثيرة هندخل جوا فولدر

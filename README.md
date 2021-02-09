@@ -2,4 +2,4 @@
 
 ## <h2 dir="rtl" align="right"> انواع الثغرات </h2>
 
-<h3 dir="rtl" align="right"> ![XSS](XSS\xss بالعربي .md)</h3>
+<h3 dir="rtl" align="right"> <a href="/XSS/xss%20بالعربي%20.md">XSS بالعربي </a></h3>

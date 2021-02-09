@@ -35,13 +35,16 @@
 لغة الGO
 </p>
 
-<p dir='rtl' align='right'>```bash
+<p dir='rtl' align='right'>
+```bash
 sudo apt install -y golang
 export GOROOT=/usr/lib/go
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 source .bashrc
 ```
+</p>
+<p dir='rtl' align='right'>
 ولو عايز تشو فيديو علي السريع بيشرح تثبت لغة الGO ممكن تشوف الفيديو دا
 
 [اضغط هنا](https://youtu.be/69bj8nUlLc8)

@@ -33,8 +33,9 @@
 <p dir='rtl' align='right'> اولا نستخدم Dalfox, WaybackURL, GF Patterns
 اول حاجة هنحتاج نثبت الادوات دي وقبل الادوات اهم شئ انك تثبت لغة البرمجة ذات نفسها الي الادوات دي بتشتغل بيها الا وهي
 لغة الGO
+</p>
 
-```bash
+<p dir='rtl' align='right'>```bash
 sudo apt install -y golang
 export GOROOT=/usr/lib/go
 export GOPATH=$HOME/go
@@ -44,5 +45,4 @@ source .bashrc
 ولو عايز تشو فيديو علي السريع بيشرح تثبت لغة الGO ممكن تشوف الفيديو دا
 
 [اضغط هنا](https://youtu.be/69bj8nUlLc8)
-
 </p>

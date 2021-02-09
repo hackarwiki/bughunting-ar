@@ -130,7 +130,7 @@ youusername.xss.ht
 ثاني طريقة وهي هنستخدم فيها kxss
 </p>
 
-### </h3 dir='rtl' align='right'> KXSS - تثبيت </h3>
+### <h3 dir='rtl' align='right'> KXSS - تثبيت </h3>
 
 <p dir='rtl' align='right'>
 اول حاجة هنحملها من الجيت هاب هكذا

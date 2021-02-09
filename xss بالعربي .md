@@ -24,4 +24,22 @@
 
 <h2 dir='rtl' align='right'>
  ازاي تلاقي XSS بسهولة
-</h1>
+</h2>
+
+<h3 dir='rtl' align='right'>
+  ايجاد الXSS ببعض ادوات الAutomate
+</h3>
+
+<p dir='rtl' align='right'> اولا نستخدم Dalfox, WaybackURL, GF Patterns
+اول حاجة هنحتاج نثبت الادوات دي وقبل الادوات اهم شئ انك تثبت لغة البرمجة ذات نفسها الي الادوات دي بتشتغل بيها الا وهي
+لغة الGO
+
+```bash
+sudo apt install -y golang
+export GOROOT=/usr/lib/go
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+source .bashrc
+```
+
+</p>

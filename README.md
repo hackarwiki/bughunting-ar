@@ -9,7 +9,7 @@
 
 <h3 dir="rtl" align="right"> <a href="/XSS/">XSS</a></h3>
 
-##<h2 dir="rtl" align="right"> مجتمعنا علي الديسكورد </h2>
+## <h2 dir="rtl" align="right"> مجتمعنا علي الديسكورد </h2>
 
 <p dir="rtl" align="right">
 ممكن تنضم لينا علي الديسكورد من هنا لو عندك اي اقتراح او سؤال

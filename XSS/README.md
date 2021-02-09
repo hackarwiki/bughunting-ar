@@ -160,6 +160,8 @@ echo 'target.com'| waybackurls | grep -v "png\|jpg\|css\|js\|gif\|txt\|pdf" | gr
 وبعد اما تشغل الكوماند الي فوق هيجرب بعض الcharcters في البرامترز ولو لقي في برامتر بيقبلهم هيقولك وفي الاخر هيحفظهملك في file
 </p>
 
+## <h2 dir='rtl' align='right'>اخيرا</h2>
+
 <p dir='rtl' align='right'>
  واخرا وليس اخرا هنقف لهنا لو عندك اي اضافة اعمل pull request وضيفها وبردو انا شغال لو في حاجة جديدة هضيفها باذن الله
 </p>
@@ -168,7 +170,7 @@ echo 'target.com'| waybackurls | grep -v "png\|jpg\|css\|js\|gif\|txt\|pdf" | gr
 وهنا هتلاقي في بعض الملفات هتفيدك في بعض الانواع المختلفة من الXSS
 </p>
 
-<p dir='rtl' align='right'>
+<p font-size="30px" dir='rtl' align='right'>
  <a href="XSS\Files">Files</a><br>
  Payload ليستة <br>
  <a href="XSS\xsspayloads.txt">xsspayloads.txt</a>

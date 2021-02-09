@@ -170,7 +170,7 @@ echo 'target.com'| waybackurls | grep -v "png\|jpg\|css\|js\|gif\|txt\|pdf" | gr
 وهنا هتلاقي في بعض الملفات هتفيدك في بعض الانواع المختلفة من الXSS
 </p>
 
-<p style='font-size:"50px";' dir='rtl' align='right'>
+<p style='font-size:"50px;"' dir='rtl' align='right'>
  <a href="XSS\Files">Files</a><br>
  Payload ليستة <br>
  <a href="XSS\xsspayloads.txt">xsspayloads.txt</a>

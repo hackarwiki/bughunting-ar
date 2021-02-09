@@ -48,6 +48,8 @@ source .bashrc
 <a href="https://www.youtube.com/watch?v=69bj8nUlLc8">اضفط هنا</a>
 </p>
 
+<h4 dir='rtl' align='right'>DalFox</h4>
+
 <p dir='rtl' align='right'>
 بعد كدا هنثبت اول اداة وهي DalFox
 لو انت شغال علي اوبونتو يبقا سهل انك تثبتها كدا علي طول من Snap
@@ -55,5 +57,12 @@ source .bashrc
 ```bash
 $ sudo snap install dalfox
 ```
+</p>
 
+<p dir='rtl' align='right'>
+او لو انت ثبت الجو زي مااحنا قولنا يبقا تثبتها كدا علي طول
+
+```bash
+go get -u github.com/hahwul/dalfox
+```
 </p>

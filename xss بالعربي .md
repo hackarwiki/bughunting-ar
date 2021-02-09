@@ -47,3 +47,13 @@ source .bashrc
 ولو عايز تشو فيديو علي السريع بيشرح تثبت لغة الGO ممكن تشوف الفيديو دا
 <a href="https://www.youtube.com/watch?v=69bj8nUlLc8">اضفط هنا</a>
 </p>
+
+<p dir='rtl' align='right'>
+بعد كدا هنثبت اول اداة وهي DalFox
+لو انت شغال علي اوبونتو يبقا سهل انك تثبتها كدا علي طول من Snap
+
+```bash
+$ sudo snap install dalfox
+```
+
+</p>

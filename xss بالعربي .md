@@ -41,5 +41,8 @@ export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 source .bashrc
 ```
+ولو عايز تشو فيديو علي السريع بيشرح تثبت لغة الGO ممكن تشوف الفيديو دا
+
+[اضغط هنا](https://youtu.be/69bj8nUlLc8)
 
 </p>

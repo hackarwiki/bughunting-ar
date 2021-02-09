@@ -175,6 +175,3 @@ echo 'target.com'| waybackurls | grep -v "png\|jpg\|css\|js\|gif\|txt\|pdf" | gr
  Payload ليستة <br>
  <a href="XSS\xsspayloads.txt">xsspayloads.txt</a>
 </p>
-
-### Special Thanks
- - ![Khaled Mohamed](https://github.com/xelkomy)

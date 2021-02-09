@@ -11,4 +11,8 @@
 
 ##<h2 dir="rtl" align="right"> مجتمعنا علي الديسكورد </h2>
 
-<iframe dir="rtl" align="right" src="https://discord.com/widget?id=808763430974259251&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<p dir="rtl" align="right">
+ممكن تنضم لينا علي الديسكورد من هنا لو عندك اي اقتراح او سؤال
+<br>
+<a href="https://discord.gg/T44Kd8xUQ9"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.denofgeek.com%2Fwp-content%2Fuploads%2F2020%2F06%2FDiscord.png%3Ffit%3D1244%252C696&f=1&nofb=1"></a>
+</p>

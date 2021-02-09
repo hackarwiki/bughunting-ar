@@ -45,6 +45,5 @@ source .bashrc
 
 <p dir='rtl' align='right'>
 ولو عايز تشو فيديو علي السريع بيشرح تثبت لغة الGO ممكن تشوف الفيديو دا
-
-[اضغط هنا](https://youtu.be/69bj8nUlLc8)
+<a href="https://www.youtube.com/watch?v=69bj8nUlLc8">اضفط هنا</a>
 </p>

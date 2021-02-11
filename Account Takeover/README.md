@@ -38,7 +38,7 @@
   عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph<br>
   انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم<br>
   ولو شوفت الصورة هيبقا صعب انك تطلع هل فعلا الاميل دا حقيقي ولا لا لان الحرف المتغير للاتيني هنا هو حرف الk <br>
-  في الاميل فهنقول كدا لازم تكون دماغك شغالة مش بتام <br>
+  في الاميل فهنقول كدا لازم تكون دماغك شغالة مش بتنام <br>
 </p>
 
 <p dir="rtl" align="right">
@@ -57,3 +57,4 @@ https://hackerone.com/reports/271324
 https://blogs.akamai.com/sitr/2020/05/watch-your-step-the-prevalence-of-idn-homograph-attacks.html
 https://zvelo.com/what-is-idn-homograph-attack-protect-yourself/
 ```
+--------------------------------------------------------------------------------

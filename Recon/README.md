@@ -1,7 +1,11 @@
-السلام عليكم و رحمة الله و بركاته
 
-ال programs اللي احنا بنعمل عليها test ال Scope بتاعها بيكون واحد من تلاته
-- large scope , medium scope , small scope
+### <h3 dir="rtl" align="right"> السلام عليكم و رحمة الله و بركاته </h3>
+
+<p dir="rtl" align="right">
+ال programs اللي احنا بنعمل عليها test ال Scope بتاعها بيكون واحد من تلاته<br>
+- large scope , medium scope , small scope<br>
+</p>
+
 
 ## <h2 dir="rtl" align="right"> Large Scope </h2>
 <p dir="rtl" align="right">
@@ -253,7 +257,8 @@ site:*.domain.com inurl:admin | inurl:panel
 - لو عاوز تعمل automate و تجيب subdomains live و endpoint و input parameters
 https://twitter.com/0xElkot/status/1288425261030084609
 </p>
---------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 ## <h2 dir="rtl" align="right"> Small Scope </h2>
 

@@ -32,11 +32,11 @@
   اي حاجة تجيلها تسجلها<br>
   او لو عايز حاجة بسيطة ممكن تحط البايلود بتاع xsshunter في الindex.php<br>
   بتاع الموقع الي انت سجلته وخلاص كدا بقا معاك سيناريو بسيط حلو ويبقا high :)<br>
-  الحوار دا علي فكرة بيستخدم كتير جدا في حتة الSpam
-  لان مثلا انت مسجل في موقع بيتكوين زي الصورة دي ف الspammers
-<img src="https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small"/>
-  عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph
-  انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم
+  الحوار دا علي فكرة بيستخدم كتير جدا في حتة الSpam<br>
+  لان مثلا انت مسجل في موقع بيتكوين زي الصورة دي ف الspammers<br>
+<img src="https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small"/><br>
+  عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph<br>
+  انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم<br>
 </p>
 مصادر للزيادة
 

@@ -8,17 +8,52 @@
 
 <h3 dir='rtl' align='right'> Reflected XSS - النوع المنعكس </h3>
 
-   <p dir='rtl' align='right'>هو عبارة عن تشغل كود ضار من مصدر اخر عن طريق برامتر في رابط الموقع كمثال </p>
+   <p dir='rtl' align='right'> عندك براميتر بيطبع محتواة فى الصفحة فا ممكن تضيف 
+  html tags 
+  ومنها تقدر تنفذ جافا سكريبت (ٍٍْXSS)
+</p>
 
 <h3 dir='rtl' align='right'> Stored XSS - المخزن </h3>
 
   <p dir='rtl' align='right'>
-  هو ببساطة النوع الذي يكون موجود في مكان مثل ادراج كومنت او صورة في مكان يراه الكثير ويكون مخزن علي الموقع دائما .
-  </p>
+ reflected الفكرة ببساطة ان البايلود بتاعك بيتم تخزينة على عكس
+ فا النوع اعلى من التاني عشان ممكن يتنفذ على اى حد منغير ما تبعت حاجة لى المستخدم زى مكان كومنتس او اسم للمستخدم
+</p>
+
+***
 
 <h3 dir='rtl' align='right'> DOM-Based XSS - من داخل كود جافا سكربت </h3>
 
   <p dir='rtl' align='right'> نوع من XSS يحتوي على حمولات موجودة في DOM بدلاً من كود HTML. </p>
+
+<h3 dir='rt1' align='right'>مثال : عندك الموقع دة وبراميتر بيطبع المحتوى بتاعة فى كود جافاسكريبت زى دة</h3>
+
+```
+http://vuln.attack/play.php?parameter=REFLECT
+--
+var flag_open = '0';
+var feedid = '';
+var link_url = "REFLECT";
+var url_a = 'play.php';
+```
+
+فا ممكن تطلع برة وتضيف البايلود بتاعك
+
+```
+http://vuln.attack/play.php?parameter=REFLECT";alert(1)//
+--
+var flag_open = '0';
+var feedid = '';
+var link_url = "REFLECT";alert(1)//";
+var url_a = 'play.php';
+```
+
+
+طبعا فيها اكتر من طريقة والموضوع كبير شوية فا ممكن تلقى نظرة على
+[Chrom Dev Tools by Tomnomnom](https://www.youtube.com/watch?v=FTeE3OrTNoA)
+
+وجرب تحل 
+Google FireRang XSS
 
 -------------------------------------------------------------------------------------------
 

@@ -1,0 +1,11 @@
+- name: Template Action
+  # You may pin to the exact commit or the version.
+  # uses: kikyous/template-action@e845d6168240b847d255546d7a84eb2f868587e4
+  uses: kikyous/template-action@v2.0.2
+  with:
+    # doT template string
+    template: # optional, default is 
+    # doT template file path
+    template-path: # optional, default is 
+    # a shell command run after template has been rendered, use {{=it.output}} to get render result
+    post-run: # optional, default is 

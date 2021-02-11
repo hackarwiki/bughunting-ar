@@ -1,6 +1,6 @@
 <!-- dir="rtl" align="right" -->
 
-## Account Takeover
+## <h2 dir="rtl" align="right"> Account Takeover </h2>
 
 <p dir="rtl" align="right">
   السلام عليكم ورحمة الله وبركاتة اولا كدا<br>
@@ -10,7 +10,7 @@
   وغيرهم كتير علشان زي ماقولت علي حسب السيناريو الي ممكن تفكر فيه لاجل التارجت الي قدامك يعني تشوف كل شئ وتعمل سيناريو ليك <br>
 </p>
 
-## <h2 dir="rtl" align="right"> Open Redirect Or Oauth Bypass</h2>
+### <h3 dir="rtl" align="right"> Open Redirect Or Oauth Bypass</h3>
 
 <p dir="rtl" align="right">
   انا حبيت ابدا بالحالة دي لانها مش مشروحة بالعربي تقريبا وغير كدا الحالة دي حلوة وممكن تقبلك كتير<br>
@@ -32,4 +32,14 @@
   اي حاجة تجيلها تسجلها<br>
   او لو عايز حاجة بسيطة ممكن تحط البايلود بتاع xsshunter في الindex.php<br>
   بتاع الموقع الي انت سجلته وخلاص كدا بقا معاك سيناريو بسيط حلو ويبقا high :)<br>
+  الحوار دا علي فكرة بيستخدم كتير جدا في حتة الSpam
+  لان مثلا انت مسجل في موقع بيتكوين زي الصورة دي ف الspammers
+<img src="https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small"/>
+  عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph
+  انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم
 </p>
+مصادر للزيادة
+
+```url
+https://hackerone.com/reports/861940
+```

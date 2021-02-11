@@ -41,8 +41,19 @@
   في الاميل فهنقول كدا لازم تكون دماغك شغالة مش بتام <br>
 </p>
 
-## <h3 dir="rtl" align="right"> مصادر للزيادة </h3>
+<p dir="rtl" align="right">
+وعلشان مننساش دي اداة هتسهل عليك انك تجرب اكثر الدومينات باسم دومين الترجت بتاعك ولكن حروف متغيرة للاتيني<br>
+علشان يشوف الدومينات دي متسجلة ولا لا والي مش متسجل هتستخدمه في الهجوم<br>
+</p>
+
+[Ditto](https://github.com/evilsocket/ditto)
+
+## <h4 dir="rtl" align="right"> مصادر للزيادة </h4>
 
 ```url
 https://hackerone.com/reports/861940
+https://en.wikipedia.org/wiki/IDN_homograph_attack
+https://hackerone.com/reports/271324
+https://blogs.akamai.com/sitr/2020/05/watch-your-step-the-prevalence-of-idn-homograph-attacks.html
+https://zvelo.com/what-is-idn-homograph-attack-protect-yourself/
 ```

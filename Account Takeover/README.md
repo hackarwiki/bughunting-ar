@@ -46,7 +46,7 @@
 علشان يشوف الدومينات دي متسجلة ولا لا والي مش متسجل هتستخدمه في الهجوم<br>
 </p>
 
-[Ditto](https://github.com/evilsocket/ditto)
+[Ditto Ditto Ditto Ditto Ditto Ditto Ditto Ditto Ditto](https://github.com/evilsocket/ditto)
 
 ## <h4 dir="rtl" align="right"> مصادر للزيادة </h4>
 

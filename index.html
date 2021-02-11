@@ -1,1 +1,33 @@
 <h1>test</h1>
+
+
+
+
+
+<!-- 
+
+- https://api.github.com/repos/kafpg/bughunting-ar/contents//
+
+-->
+
+
+<script>
+m = "{lol:'vvv'}"
+
+JSON.stringify(m)
+
+  function getpath() {
+            var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 ) {
+                        var dd = JSON.parse(this.responseText)
+                        document.write(dd)
+            }
+         };
+         xhttp.open("GET", "https://api.github.com/repos/kafpg/bughunting-ar/contents//", true);
+         xhttp.withCredentials = true;
+         xhttp.send();
+}
+getpath()
+</script>
+

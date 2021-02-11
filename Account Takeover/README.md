@@ -37,8 +37,11 @@
 <img src="https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small"/><br>
   عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph<br>
   انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم<br>
+  ولو شوفت الصورة هيبقا صعب انك تطلع هل فعلا الاميل دا حقيقي ولا لا لان الحرف المتغير للاتيني هنا هو حرف الk <br>
+  في الاميل فهنقول كدا لازم تكون دماغك شغالة مش بتام <br>
 </p>
-مصادر للزيادة
+
+## <h3 dir="rtl" align="right"> مصادر للزيادة </h3>
 
 ```url
 https://hackerone.com/reports/861940

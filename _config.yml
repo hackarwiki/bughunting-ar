@@ -40,6 +40,6 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
-repository: kafpg/bughunting-ar
+repository: bughunting-ar
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

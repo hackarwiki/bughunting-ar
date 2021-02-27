@@ -1,5 +1,5 @@
 
-### <h3 dir="rtl" align="right"> السلام عليكم و رحمة الله و بركاته </h3>
+<h3 dir="rtl" align="right"> السلام عليكم و رحمة الله و بركاته </h3>
 
 <p dir="rtl" align="right">
 ال programs اللي احنا بنعمل عليها test ال Scope بتاعها بيكون واحد من تلاته<br>
@@ -7,7 +7,7 @@
 </p>
 
 
-## <h2 dir="rtl" align="right"> Large Scope </h2>
+##  Large Scope
 <p dir="rtl" align="right">
 دا بيكون للمواقع الكبيره طب تعمل معاه ايه ؟ او تعرفه ازاي ؟ <br>
 اولا : بتعرفه لما تشوف ال Scope بتاع الموقع زي كدا <br>

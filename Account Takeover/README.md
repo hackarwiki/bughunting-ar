@@ -1,6 +1,6 @@
 <!-- dir="rtl" align="right" -->
 
-## <h2 dir="rtl" align="right"> Account Takeover </h2>
+##  Account Takeover
 
 <p dir="rtl" align="right">
   السلام عليكم ورحمة الله وبركاتة اولا كدا<br>
@@ -10,7 +10,7 @@
   وغيرهم كتير علشان زي ماقولت علي حسب السيناريو الي ممكن تفكر فيه لاجل التارجت الي قدامك يعني تشوف كل شئ وتعمل سيناريو ليك <br>
 </p>
 
-### <h3 dir="rtl" align="right"> Open Redirect Or Oauth Bypass</h3>
+### Open Redirect Or Oauth Bypass
 
 <p dir="rtl" align="right">
   انا حبيت ابدا بالحالة دي لانها مش مشروحة بالعربي تقريبا وغير كدا الحالة دي حلوة وممكن تقبلك كتير<br>
@@ -34,7 +34,8 @@
   بتاع الموقع الي انت سجلته وخلاص كدا بقا معاك سيناريو بسيط حلو ويبقا high :)<br>
   الحوار دا علي فكرة بيستخدم كتير جدا في حتة الSpam<br>
   لان مثلا انت مسجل في موقع بيتكوين زي الصورة دي ف الspammers<br>
-<img src="https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small"/><br>
+![]("https://pbs.twimg.com/media/EttDSbIXUAQ6aDE?format=png&name=small")
+
   عرفو معلوماتك واميلك فيستغلو حاجة زي  SPF record + IDN Homograph<br>
   انهم يبعتولك ميل مثلا rest password or اي ان يكن هيعملو اي بس كله علي حسب السيناريو الي قدامهم<br>
   ولو شوفت الصورة هيبقا صعب انك تطلع هل فعلا الاميل دا حقيقي ولا لا لان الحرف المتغير للاتيني هنا هو حرف الk <br>
@@ -46,15 +47,13 @@
 علشان يشوف الدومينات دي متسجلة ولا لا والي مش متسجل هتستخدمه في الهجوم<br>
 </p>
 
-[Ditto Ditto Ditto Ditto Ditto Ditto Ditto Ditto Ditto](https://github.com/evilsocket/ditto)
+[Ditto](https://github.com/evilsocket/ditto)
 
 ## <h4 dir="rtl" align="right"> مصادر للزيادة </h4>
 
-```url
-https://hackerone.com/reports/861940
-https://en.wikipedia.org/wiki/IDN_homograph_attack
-https://hackerone.com/reports/271324
-https://blogs.akamai.com/sitr/2020/05/watch-your-step-the-prevalence-of-idn-homograph-attacks.html
-https://zvelo.com/what-is-idn-homograph-attack-protect-yourself/
-```
---------------------------------------------------------------------------------
+* https://hackerone.com/reports/861940
+* https://en.wikipedia.org/wiki/IDN_homograph_attack
+* https://hackerone.com/reports/271324
+* https://blogs.akamai.com/sitr/2020/05/watch-your-step-the-prevalence-of-idn-homograph-attacks.html
+* https://zvelo.com/what-is-idn-homograph-attack-protect-yourself/
+

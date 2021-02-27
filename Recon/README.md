@@ -36,10 +36,10 @@ All <company> apps and assets not listed under the Out of Scope list <br>
 يعني اي الكلام دا تقدر تفهمه من هنا
 </p>
 
-```url
-https://en.wikipedia.org/wiki/Autonomous_system_(Internet)
-https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
-```
+
+* [Autonomous_system](https://cutt.ly/xlAE1D7)
+* [Classless_Inter-Domain_Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
+
 
 <p dir="rtl" align="right">
 بعد ما بتطلع ال ASN و ال CIDR  <br>

@@ -2,8 +2,8 @@
 # Site settings
 title: HackArWiki
 description: 'هذا المستودع هي محاولة منا لاثراء المحتوي العربي بخصوص البج بونتي ومايحتويه من انواع ثغرات الي تقنيات مختلفة الي مصادر متعددة '
-url: '../bughunting-ar'
-baseurl: ''
+url: 'hackarwiki.github.io'
+baseurl: '/bughunting-ar/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true

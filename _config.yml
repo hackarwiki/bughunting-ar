@@ -1,6 +1,6 @@
 
 # Site settings
-title: KafPg
+title: HackArWiki
 description: 'هذا المستودع هي محاولة منا لاثراء المحتوي العربي بخصوص البج بونتي ومايحتويه من انواع ثغرات الي تقنيات مختلفة الي مصادر متعددة '
 url: 'kafpg.github.io'
 baseurl: '/'
@@ -9,7 +9,7 @@ baseurl: '/'
 # disable_landing_page: true
 
 author:
-  name: 'HackArWiki'
+  name: 'HackArWiki (Contributor)'
   email: 
   twitter_username: 
   facebook_username: 

@@ -1,0 +1,90 @@
+SSTI - Server Side Template Injection
+<h4 align="right">
+ Template Engine فى اغلب الويبسايتس فى حاجة اسمها محرك القوالب او 
+  </h4>
+<h4 align=right>
+  وفى منهم امثلة كتيرة زى 
+  <ul align=left>
+    <li> Jinja2</li>
+    <li> Ejs</li>
+    <li>Plug</li>
+    <li> الخ </li>
+  </ul>
+  <br>
+HTML فائدة هذة المحركات هو اعطاء تحكم فى ملفات
+</h4>
+<h4 align=right> 
+  مثال
+  <h4>
+<h4 align=rigth>
+  لدى موقع مكتوب بلغة بايثون ولدى بيانات المستخدم مثل اسمة وتفاصيل حساب واريد ان اعرضها فى الصفحة فا سيكون علي فقط تمريرها لى الصفحة 
+</h4>
+    
+```python
+@app.route('/')
+def index():
+    userinfo = GetUser() # {username:"khaled",age:18}
+    return render_template('index.html',info=userinfo)
+```
+    <p align=rigth>كل ما على هنا هو تعريف المتغير بدخل الملف</p>
+```html
+{% for i,c in info.items() %}
+    <h1>INFO
+  </h1>
+    <hr>
+    {{i}}: {{c}}
+{%endif%}
+  ```
+<p align=right>النتيجة</p>
+    
+```html
+    <h1>INFO
+  </h1>
+    <hr>
+    username: Khaled
+    age: 18
+```
+
+<p align=right>
+تعريف اكبر عن الموضوع 
+    https://academy.hsoub.com/programming/python/flask/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D9%85%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%84%D8%A8-jinja-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D8%A7%D8%AA-r440/
+    </p>
+    
+<hr>
+    
+فين بقى المشكلة هنا؟
+    ببساطة لو المبرمج استعمل 
+    Template Engine 
+    من السيرفر منغير فلترة فا دة ممكن يعمل المشكلة
+    
+    مثال
+    
+```python
+from flask import Flask,render_template,request
+from jinja2 import Environment
+app = Flask(__name__)
+Jinja2 = Environment()
+
+@app.route('/')
+def index():
+  name = request.args.name
+  res = Jinja2.from_string(f'Hello {name} !').render()
+  return res
+
+app.run()
+```
+ببساطة هنا المستخدم هيضيف اسمة فى name parameter وهيعدى على Template Engine منغير فلتر
+    فا يرجع للمستخدم Hello Name
+    
+    طاب ازاى اعرف ان دة مصاب
+    تعالا نجرب نعمل
+    name={{2*2}}
+    دى ببساطة فى التمببليت معناها اضرب 2 فى 2
+    لو البراميتر مش مصاب فا دة هيرجع
+   {{2*2}}
+    طبيعى بس هنا طلعلنا 
+
+```html
+Hello 4
+```
+نجرب {{}}

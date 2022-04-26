@@ -1,9 +1,18 @@
-# <h1 dir="rtl" align="right">كل مايخص البج بونتي بالعربي </h1>
+Hello everyone, this small repo we made to explain the web vulnerabilities in Arabic.
+
+### our Goal
+we want more Arabic content in the cyber security field ( without literal translation ). You can include the name of the tool/attack in English, like MITM, burp suite; no problem with that
+if you want to help us, fork this repo and make a PR but don't forget to use our python script in the scripts folder to convert your Arabic words from LTR to RTL.
+
+
+
 
 <p dir="rtl" align="right">السلام عليكم ورحمة الله وبركاتة </p>
 <p dir="rtl" align="right">
 هذا المستودع هي محاولة منا لاثراء المحتوي العربي بخصوص البج بونتي ومايحتويه من انواع ثغرات الي تقنيات مختلفة الي مصادر متعددة.
 </p>
+
+
 
 ## <h2 dir="rtl" align="right"> هدفنا</h2>
 
